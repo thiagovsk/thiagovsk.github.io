@@ -6,7 +6,7 @@ bio: 'My adventures in the World of Technology.'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://thiagovsk.github.io/ 
+url: http://thiagovsk.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
