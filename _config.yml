@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Thiago Ribeiro
+bio: 'My adventures in the World of Technology.'
 
 # if it's an external image, update below for true
 external-image: false
@@ -22,20 +22,20 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: thiagovsk
+twitter: thiagovsk_
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+# linkedin: thiago-ribeiro-218a5b9a
+#youtube: myyoutube
+#spotify: myspotify
+github: thiagovsk
+#medium: medium
+email: thiagitosouza@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -47,7 +47,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
