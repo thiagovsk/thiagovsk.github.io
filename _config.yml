@@ -25,8 +25,8 @@ baseurl: ""
 #used to display twitter cards
 twitter_handle: '@thiagovsk'
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+
+disqus: thiagovsk 
 
 # social icons and sharing options
 social:
