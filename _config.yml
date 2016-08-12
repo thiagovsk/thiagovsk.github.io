@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Thiagovsk Blog"
+title: "@thiagovsk"
 description: > # this means to ignore newlines until "email:"
    Meu dia dia como engenheiro de software
 
