@@ -1,4 +1,12 @@
-<footer class="footer-main">
-    {{ site.name }} © {{ site.time | date: '%Y' }} <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
-© Copyright 2016 Thiago Ribeiro
+<!-- footer start -->
+
+<footer class="site-footer">
+  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+    <div class="inner">
+         <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
+         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+         <section> Using <a href="https://github.com/dirkfabisch/mediator"> Meadiator Theme </a> </section>
+    </div>
 </footer>
+
+<!-- footer end -->
